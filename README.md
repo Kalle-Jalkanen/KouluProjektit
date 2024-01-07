@@ -1,7 +1,7 @@
 # This is my portfolio repository
 
 ## Web Application Security
-[WebAppSec](WebAppSec) folder includes all assigments from ***Web Application Security*** course. Each file deals with one problem from OWASP's top ten list.
+These are assigments from Web Application Security course. Each assigment deals with one problem from OWASP top ten vulnerability list.
 - [A01:2021-Broken Access Control](WebAppSec/A01-2021.pdf)
 - [A02:2021-Cryptographic Failures](WebAppSec/A02-2021.pdf)
 - [A03:2021-Injection](WebAppSec/A03-2021.pdf)
