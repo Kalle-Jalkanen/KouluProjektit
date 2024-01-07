@@ -1,3 +1,3 @@
-# This is reporitory for my projects to show my skills
+# This is repository for my projects to show my skills
 
-- WebAppSec folder includes all assigments from Web Application Security course. Each assigment deals with one problem from OWASP's top ten list.
+- WebAppSec folder includes all assigments from Web Application Security course. Each assigment file deals with one problem from OWASP's top ten list.
