@@ -1,7 +1,8 @@
 # This is my portfolio repository
 
-- [WebAppSec](WebAppSec) folder includes all assigments from ***Web Application Security*** course. Each assigment file deals with one problem from OWASP's top ten list.
-
+## Web Application Security
+[WebAppSec](WebAppSec) folder includes all assigments from ***Web Application Security*** course. Each file deals with one problem from OWASP's top ten list.
+- [A01-2021-Broken Access Control](WebAppSec/A01-2021-Broken Access Control.pdf)
 
 ## Auditing and Penetration testing
 - [Auditing assigment](Others/auditing.pdf). Auditing our Ethical Hacing course's enviroment.
