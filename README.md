@@ -2,7 +2,10 @@
 
 - [WebAppSec](WebAppSec) folder includes all assigments from ***Web Application Security*** course. Each assigment file deals with one problem from OWASP's top ten list.
 
-- [Auditing assigment](Others/auditing.pdf)
+
+## Auditing and Penetration testing
+- [Auditing assigment](Others/auditing.pdf). Auditing our Ethical Hacing course's enviroment.
+- [Penetration testing](Others/JarmoChallenge.pdf). Goal is to get root privileges of Linux machine.
 
 ## Reverse engineering
   - In [this](Others/reverse_engineering_1.pdf) task I had to find out the password of the program.
