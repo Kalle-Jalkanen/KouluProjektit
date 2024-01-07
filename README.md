@@ -10,6 +10,6 @@
   - [This](Others/reverse_engineering_win_1.pdf) and [This](Others/reverse_engineering_win_2.pdf) are real Windows malwares that I analyzed
 
 - ***Software Exploitation***
-  - [Stack buffer overflow](Others/SoftEx_stack_buffer_overflow)
-  - [Shellcode part 1](Others/SoftEx_shellcode_1)
-  - [Shellcode part 1](Others/SoftEx_shellcode_2)
+  - [Stack buffer overflow](Others/SoftEx_stack_buffer_overflow.pdf)
+  - [Shellcode part 1](Others/SoftEx_shellcode_1.pdf)
+  - [Shellcode part 1](Others/SoftEx_shellcode_2.pdf)
