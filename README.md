@@ -28,4 +28,5 @@ These are assigments from Web Application Security course. Each assigment deals 
   - [Shellcode part 2](Others/SoftEx_shellcode_2.pdf) "Create a shellcode (shellcode generated with metasploit won't do) for the ALL different inputs for shell_1. You should use some course's implementation code TTC6520-3002! as a message in your shellcode. Second part of the assignment is to create, choose, or generate a shellcode that executes a system command. It is up to you to decide what the command is and what input method you want to use."
 
 ## Cyber defence
-  - Cyber security exercise where I was in blue team and administrator of Windows servers (AD and files) [End report](Others/cybersec_exe_end_report.pdf)
+  - Big cyber security exercise where I was in blue team and administrator of Windows servers (AD and files) [End report](Others/cybersec_exe_end_report.pdf)
+  - Cyber security exercise environment planning and implementing in VMware vSphere.
