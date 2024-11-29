@@ -30,3 +30,6 @@ These are assigments from Web Application Security course. Each assigment deals 
 ## Cyber defence
   - Big cyber security exercise where I was in blue team and administrator of Windows servers (AD and files) [End report](Others/cybersec_exe_end_report.pdf)
   - Cyber security exercise environment [planning](Others/exercise_planning.pdf) and implementing in VMware vSphere and working in red/white team.
+
+### In finnish
+  - [Haavoittuvuuksien hallinta](cyberdefence/haavoittuvuuksien hallinta.pdf). 
