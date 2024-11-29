@@ -32,4 +32,5 @@ These are assigments from Web Application Security course. Each assigment deals 
   - Cyber security exercise environment [planning](Others/exercise_planning.pdf) and implementing in VMware vSphere and working in red/white team.
 
 ### In finnish
-  - [Haavoittuvuuksien hallinta](cyberdefence/haavoittuvuuksien hallinta.pdf)  
+  - [Kyberturvallisuuden hallinta.pdf](cyberdefence/kyberturvallisuuden_hallinta.pdf) harjoitus, jossa muodostettiin ISO standardin 27001 ja 27002 mukaisen omaisuuden hallinnan kuvitteelliselle organisaatiollemme
+  - [Haavoittuvuuksien hallinta.pdf](cyberdefence/haavoittuvuuksien_hallinta.pdf) harjoitus, jossa muodostettiin ISO standardin 27001 ja 27002 mukaisen haavoittuvuuksien hallinnan kuvitteelliselle organisaatiollemme.
